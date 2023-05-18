@@ -14,7 +14,7 @@ a) Crie uma **cópia** do objeto acima, mantendo a estrutura, mas trocando **`n
 
 b) No objeto original, adicione mais uma propriedade, chamada `ataques`. Esta propriedade deve guardar um **array** que deve começar vazio.
 
-c) Crie um objeto de `ataque` com a estrutura abaixo e **o adicione no array `ataques`**, utilizando `**push()**`:
+c) Crie um objeto de `ataque` com a estrutura abaixo e **o adicione no array `ataques`**, utilizando **`push()`**:
 
 ```
 nome: "Investida",
