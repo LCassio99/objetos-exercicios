@@ -1,19 +1,22 @@
-const objetos = [{
-  fruta1: 'Laranja',
-  precoFruta1: 2,
-  disponibilidadeFruta1: true
-},
-{
-  fruta2:'Pequi',
-  precoFruta2: 8,
-  disponibilidadeFruta2: false
-},
-{
-  fruta3:'Umbu',
-  precoFruta3: 4,
-  disponibilidadeFruta2: true
-}
+const objetos = [
+  {
+    fruta: 'Laranja',
+    precoFruta: 2,
+    disponibilidadeFruta: true
+  },
+  {
+    fruta: 'Pequi',
+    precoFruta: 8,
+    disponibilidadeFruta: false
+  },
+  {
+    fruta: 'Umbu',
+    precoFruta: 4,
+    disponibilidadeFruta: true
+  }
 ]
+
 const sacolao = []
+
 sacolao.push(objetos)
 console.log(sacolao)
